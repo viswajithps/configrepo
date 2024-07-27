@@ -14,7 +14,8 @@ public class Product {
 	String category;
 	String brand;
 	double price;
-
-	System.out.println("Product File");
+	print();
+       public void print(){
+	System.out.println("Product File");}
 
 }
