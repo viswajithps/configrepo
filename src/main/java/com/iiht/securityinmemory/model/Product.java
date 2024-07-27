@@ -15,4 +15,6 @@ public class Product {
 	String brand;
 	double price;
 
+	System.out.println("Product File");
+
 }
